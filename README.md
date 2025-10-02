@@ -1,0 +1,1 @@
+https://github.com/ct-code/sea/releases/download/v4.0.0/CodeTantra.SEA-arm64-4.0.0.dmg
