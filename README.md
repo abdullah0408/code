@@ -20,3 +20,5 @@ def process_clipboard():
 time.sleep(4)
 process_clipboard()
 ```
+
+https://drive.google.com/file/d/1NW5zu7Eq5ncAIENNXzDzD2vhiPaEelaT/view?usp=sharing
