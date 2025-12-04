@@ -1,6 +1,6 @@
 https://github.com/ct-code/sea/releases/download/v4.0.0/CodeTantra.SEA-arm64-4.0.0.dmg
 
-
+```
 import pyperclip 
 import pyautogui
 import time
@@ -19,3 +19,4 @@ def process_clipboard():
 
 time.sleep(4)
 process_clipboard()
+```
