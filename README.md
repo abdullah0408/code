@@ -28,3 +28,7 @@ https://drive.google.com/file/d/1nJ8n2fHULg9iOkwKzNCahxprjE8cGgHU/view?usp=drive
 
 
 https://drive.google.com/drive/folders/1_NIl31uIPjENdi8lAo8upXtyKgPrSVHr?usp=sharing
+
+
+
+https://github.com/ct-code/sea/releases/download/v4.0.0/CodeTantra.SEA-x64-4.0.0.exe
